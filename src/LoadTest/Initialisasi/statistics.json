@@ -1,0 +1,34 @@
+{
+  "Initialisasi" : {
+    "transaction" : "Initialisasi",
+    "sampleCount" : 1000,
+    "errorCount" : 2,
+    "errorPct" : 0.2,
+    "meanResTime" : 1259.6209999999992,
+    "medianResTime" : 1353.0,
+    "minResTime" : 13.0,
+    "maxResTime" : 2429.0,
+    "pct1ResTime" : 1396.0,
+    "pct2ResTime" : 1451.9499999999998,
+    "pct3ResTime" : 2069.120000000001,
+    "throughput" : 0.9997980407957592,
+    "receivedKBytesPerSec" : 0.9652337337232879,
+    "sentKBytesPerSec" : 0.5941475603178158
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1000,
+    "errorCount" : 2,
+    "errorPct" : 0.2,
+    "meanResTime" : 1259.6209999999992,
+    "medianResTime" : 1353.0,
+    "minResTime" : 13.0,
+    "maxResTime" : 2429.0,
+    "pct1ResTime" : 1396.0,
+    "pct2ResTime" : 1451.9499999999998,
+    "pct3ResTime" : 2069.120000000001,
+    "throughput" : 0.9997980407957592,
+    "receivedKBytesPerSec" : 0.9652337337232879,
+    "sentKBytesPerSec" : 0.5941475603178158
+  }
+}

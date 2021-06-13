@@ -2,6 +2,6 @@ package utils;
 
 public class credentials {
     
-    public final static int userId = 123;
+    public static String userId = "D001";
     
 }

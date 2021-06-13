@@ -1,0 +1,34 @@
+{
+  "Submit Score" : {
+    "transaction" : "Submit Score",
+    "sampleCount" : 1000,
+    "errorCount" : 1,
+    "errorPct" : 0.1,
+    "meanResTime" : 1245.5260000000005,
+    "medianResTime" : 1347.5,
+    "minResTime" : 9.0,
+    "maxResTime" : 2789.0,
+    "pct1ResTime" : 1389.9,
+    "pct2ResTime" : 1416.0,
+    "pct3ResTime" : 1850.7800000000002,
+    "throughput" : 0.9997700528878357,
+    "receivedKBytesPerSec" : 0.9401636451741099,
+    "sentKBytesPerSec" : 0.7577046341841376
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1000,
+    "errorCount" : 1,
+    "errorPct" : 0.1,
+    "meanResTime" : 1245.5260000000005,
+    "medianResTime" : 1347.5,
+    "minResTime" : 9.0,
+    "maxResTime" : 2789.0,
+    "pct1ResTime" : 1389.9,
+    "pct2ResTime" : 1416.0,
+    "pct3ResTime" : 1850.7800000000002,
+    "throughput" : 0.9997700528878357,
+    "receivedKBytesPerSec" : 0.9401636451741099,
+    "sentKBytesPerSec" : 0.7577046341841376
+  }
+}
